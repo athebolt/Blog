@@ -1,0 +1,7 @@
+a
+{
+    /* makes the table row clickable */
+    display: block;
+    text-decoration: none;
+    color: black;
+}
